@@ -3,14 +3,14 @@
 
 ## Description
 
-Monopoly-Sim is a simple PHP site designed to allow you to project and test different real estate scenarios for yourself or your business. 
+Monopoly-Sim is a simple PHP site designed to allow you to project and test different real estate scenarios for yourself or your business.
 
 
 ##  Use
 
 1. Clone repository: `git clone https://github.com/jandrus/monopoly-sim`
 1. Change into directory: `cd monopoly-sim`
-1. Run with PHP: `php -S 127.0.0.1:8080 -t public/ `
+1. Run with PHP: `php -S 127.0.0.1:8080 -t monopoly-sim/public/ `
 
 
 ## TODO
